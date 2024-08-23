@@ -1,0 +1,23 @@
+
+{                                                                                
+  "name": "be.elab.oneinputgame",                              
+  "displayName": "One Input Games Tool",                        
+  "version": "0.0.1",                         
+  "unity": "2018.1",                             
+  "unityRelease": "",                             
+  "description": "This is a tool that allows to drag and drop input for one input type game.",                         
+  "keywords": ["Script","Tool"],                       
+  "dependencies":{},     
+  "relatedPackages":{},     
+  "samples" : [],     
+  "author" : {
+"name":"",
+"mail":"",
+"url":""},     
+  "repository":{
+"type":"Git",
+"url":"https://github.com/EloiTeaching/2024_08_23_WOWNCG_OneInputGame.git",
+"footprint":"",
+"revision":""},     
+  "category": "Script"                   
+} 
